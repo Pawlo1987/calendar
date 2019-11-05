@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CalendarExemp</string>
+    <string name="x">X</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvNameFirstMaster">0000000000</string>
+    <string name="tvNameSecondMaster">0000000000</string>
+    <string name="tvNameThirdMaster">0000000000</string>
+    <string name="tvNameFourthMaster">0000000000</string>
+    <string name="tvNameFifthMaster">0000000000</string>
+    <string name="tvNameSixthMaster">0000000000</string>
+    <string name="tvNameSeventhMaster">0000000000</string>
+    <string name="textview">TextView</string>
+    <string name="_00_00">00:00</string>
+    <string name="textView5">00:00</string>
+    <string name="todo">TODO</string>
+    <string name="tvTimeReAdDay">00:00</string>
+
+</resources>
